@@ -1,8 +1,8 @@
 # ChatGPT + AWS
 
-Last week **ChatGPT** was released and everyone has been trying amazing things. I also started playing with it and wanted to try how it would integrated using the **AI services** from **AWS** and the results are AWSome!
+Last week **ChatGPT** was released and everyone has been trying amazing things. I also started playing with it and wanted to try how it would integrate using the **AI services** from **AWS** and the results are AWSome!
 
-In this post I will explain step by step how I created this project so you can also do it!
+In [this](https://dev.to/aws-builders/how-to-create-the-smartest-multilingual-virtual-assistant-using-aws-and-chatgpt-4i5k post I will explain step by step how I created this project so you can also do it!
 
 Best of all, you don't need to be an **AI expert** to create this!
 
