@@ -1,10 +1,10 @@
 # ChatGPT + AWS
 
-Last week ChatGPT was released and everyone have been trying amazing things with it. I also started playing with it and I wanted to try how it would integrated using the AI services from AWS and the result is AWSome!
+Last week **ChatGPT** was released and everyone has been trying amazing things. I also started playing with it and wanted to try how it would integrated using the **AI services** from **AWS** and the results are AWSome!
 
-On this post I will explain step by step how I created this project so you can also do it!
+In this post I will explain step by step how I created this project so you can also do it!
 
-The best part of it, you don't need to be an AI expert for creating this!
+Best of all, you don't need to be an **AI expert** to create this!
 
 ## Steps of the project
 
@@ -18,7 +18,7 @@ I have devided this project in 8 steps:
 4. Amazon Transcribe saves the transcript in Amazon S3
 5. Send the transcription to ChatGPT
 6. Receive the text answer from ChatGPT and remove code chunks
-7. Convert the text to audio using the language detected on step 3 using Amazon Polly and download the audio in MP3 format
+7. Convert the text to audio using the language detected in step 3 using Amazon Polly and download the audio in MP3 format
 8. Reproduce the audio file
 
 Before you start playing with it, you need to define the general parameters:
@@ -40,6 +40,6 @@ duration = 4 #seconds
 
 Make sure that the user that you have created in AWS have access to Amazon S3, Amazon Transcribe and Amazon Polly.
 
-I hope you enjoy it as much as I did when I was building and playing with this services. I think these state of the art technologies have a lot of opportunities/potential and when we use all of them together the results are AWSome!
+I hope you enjoy it as much as I did when I was building and playing with these services. I think these state-of-the-art technologies have a lot of opportunities/potential and when we use all of them together the results are AWSome!
 
 If you have any question, suggestion or comment please feel free to add them on the comments or contact me directly! :)
